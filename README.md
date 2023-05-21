@@ -11,7 +11,8 @@ Let's create a GPG key from a terminal.
 
 ```gpg --full-generate-key```
 
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQINBGRqKMYBEADjb5rfyiw7OqMP0toNeCbeSjfvvEmFldx3Nyfqn3LIx/YKingk
 BC+ZkEmvy65PefE0K/QU9LRGnM5hOHtpb7LIME1UkbNCYiAk8oVziEyuJKWgGsdA
 8f/3ZQJPn1JkKwKoXqbCP+hqZVI7NdtaSK5Jnzf0h5DvJIkJr7nPzBteClU5iEU3
@@ -60,4 +61,5 @@ HG05Zu0B2jHYyLoLTmhXX/Cn0XMDEZdXoYQpQXG3q8twkLfyV5yTEmmP1X7/yRq1
 MZEsgn4P5zzniVMn4WiWawPqHMRf0A/ylalv6z7X4cl1oV7V6rA0nljAe/qFCrMt
 dhuHrddWSqRm41je+tXiFtYdE0fF2KM+WjHaBgac+lO3air5fP5xJTmACTvkPZbB
 wWouIiw==eHZb
------END PGP PUBLIC KEY BLOCK-----```
+-----END PGP PUBLIC KEY BLOCK-----
+```
