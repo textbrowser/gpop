@@ -1,4 +1,4 @@
-GPG through GitHub. Like Poptastic but without e-mail.
+GPG through GitHub. Like Poptastic, but without e-mail.
 
 This is a zero-source repository. Share messages through Discussions. Accounts are clearly required, like e-mail.
 
