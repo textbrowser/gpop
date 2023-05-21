@@ -11,6 +11,10 @@ Let's create a GPG key from a terminal.
 
 ```gpg --full-generate-key```
 
+Let's encrypt and sign a message.
+
+```gpg --armor --encrypt --sign -r recipient@recipient.org -u sender@sender.org message.txt```
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQINBGRqKMYBEADjb5rfyiw7OqMP0toNeCbeSjfvvEmFldx3Nyfqn3LIx/YKingk
